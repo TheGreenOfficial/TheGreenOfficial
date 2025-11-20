@@ -42,8 +42,11 @@ I’m a deeply curious, always-learning about cyber security and a programmer ex
 ### 🛡️ TryHackMe  
 [TheGreenOfficial](https://tryhackme.com/p/TheGreenOfficial)
 
+### 🔠 Hack The Box
+[TheGreenOfficial](https://app.hackthebox.com/profile/1785755)
+
 ### ▶️ YouTube  
-[TheGreenOfficial](https://youtube.com/TheGreenOfficial)
+[TheGreenOfficial](https://youtube.com/@TheGreenOfficial)
 
 ### 💬 Discord  
-**TheGreenOfficial**
+[TheGreenOfficial](http://discordapp.com/users/1313762996966920216)
