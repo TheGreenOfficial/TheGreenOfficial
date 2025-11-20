@@ -40,10 +40,10 @@ I’m a deeply curious, always-learning about cyber security and a programmer ex
 ## 🌐 Explorte my profiles: 
 
 ### 🛡️ TryHackMe  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2612775" style="border:none;width:100%;height:150px;"></iframe>
+[TheGreenOfficial](https://tryhackme.com/p/TheGreenOfficial)
 
 ### ▶️ YouTube  
-[youtube.com/TheGreenOfficial](https://youtube.com/TheGreenOfficial)
+[TheGreenOfficial](https://youtube.com/TheGreenOfficial)
 
 ### 💬 Discord  
 **TheGreenOfficial**
