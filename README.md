@@ -14,7 +14,7 @@ I’m a deeply curious, always-learning about cyber security and a programmer ex
 - **Web pentesting**
 - **Linux & Windows exploitation**
 - **Privilege escalation**
-- Researching random tech stuff
+- Researching on random tech stuff
 
 ---
 
@@ -33,7 +33,7 @@ I’m a deeply curious, always-learning about cyber security and a programmer ex
 - Exploring more **hacking + programming**
 - Doing **web CTFs**, planning to move into **bug bounty**
 - Want to become expert in penetesting -> web, linux, win & AD services
-- - Just a continuous learner with a deep obsession for cybersecurity...
+- Just a continuous learner with a deep obsession for cybersecurity...
 
 ---
 
