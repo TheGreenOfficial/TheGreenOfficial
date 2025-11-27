@@ -33,7 +33,7 @@ I’m deeply curious and always eager to learn about cyber security and a progra
 - Exploring more **hacking + programming**
 - Doing **web CTFs**, Participating in **bug bounty**
 - Aim to become expert in penetesting -> web, linux, win & AD services
-  with my some programming hobbies & low level stuffs..
+  with my some programming hobbies(kenrel, complers) & low level stuffs..
 - Just a continuous learner with a deep obsession for cybersecurity/h@cking...
 
 ---
