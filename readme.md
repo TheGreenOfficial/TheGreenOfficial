@@ -1,7 +1,7 @@
 # 🌿 TheGreen
 
 Hi, I’m **TheGreen** — the nickname I use across the internet.  
-I’m a deeply curious, always-learning about cyber security and a programmer exploring everything from systems to the web.
+I’m deeply curious and always eager to learn about cyber security and a programmer exploring everything from systems to the web.
 
 ---
 
