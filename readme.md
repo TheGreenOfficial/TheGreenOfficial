@@ -20,9 +20,8 @@ I’m deeply curious and always eager to learn about cyber security and a progra
 
 ## 💻 Programming Interests
 
-- Love **C** — aiming to fully master it  
+- Love **C** — doing stuffs in it.
 - Done some **PHP projects** along with other web languages  
-- Not big into **C++** (Linus-style)  
 - Not a fan of **Python’s English-like syntax**, done some projects in college
 - Believe "A good hacker is a great programmer."
 
