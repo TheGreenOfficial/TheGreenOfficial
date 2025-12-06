@@ -30,7 +30,7 @@ I’m deeply curious and always eager to learn about cyber security and a progra
 ## 🕵️ Current Focus
 
 - Exploring more **hacking + programming**
-- Doing **web CTFs**, Participating in **bug bounty**
+- Doing **web CTFs**, trying to start in **bug bounty**
 - Aim to become expert in penetesting -> web, linux, win & AD services<br>
   with my some programming hobbies(kenrel, complers) & low level stuffs..
 - Just a continuous learner with a deep obsession for cybersecurity/h@cking...
