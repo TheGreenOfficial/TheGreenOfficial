@@ -22,7 +22,7 @@ I’m deeply curious and always eager to learn about cyber security and a progra
 
 - Love **C** — doing stuffs in it.
 - Done some **PHP projects** along with other web languages  
-- Not a fan of **Python’s English-like syntax**, done some projects in college
+- Used 3-4 more programming languages for some stuffs.
 - Believe "A good hacker is a great programmer."
 
 ---
